@@ -3,6 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Dante98DZC)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dante98dzc@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-7a6ff1?style=flat&logo=Telegram&logoColor=white)](https://t.me/DavidZC98)
 
 Welcome to my Github page! I am David and I am currently finishing my Computer Engineering degree at the university of Holguín!  
 
