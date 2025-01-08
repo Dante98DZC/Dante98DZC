@@ -1,4 +1,9 @@
-<div align="center">
+<div align="center" style="position: relative;">
+  <img 
+    src="https://raw.githubusercontent.com/Dante98DZC/Dante98DZC/main/photo_2021-09-16_19-13-06.jpg" 
+    alt="Background Image" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: auto; opacity: 0.15; z-index: -1;" 
+  />
   <h1>Hi there 👋</h1>
   
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Dante98DZC)
@@ -8,21 +13,15 @@
 
 ---
 
-<div align="center">
-  <img alt="Profile Image" src="https://raw.githubusercontent.com/Dante98DZC/Dante98DZC/main/photo_2021-09-16_19-13-06.jpg" width="35%" style="border-radius: 10px;" />
-</div>
-
----
-
 ### 🌱 What I'm currently working on:
-<div align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 10px; margin: 10px 0;">
+<div align="center" style="padding: 10px; background-color: rgba(255, 255, 255, 0.85); border-radius: 10px; margin: 10px 0;">
 - Building my first **Startup** while learning React, Django, and modern web technologies. 
 </div>
 
 ---
 
 ### 🛠 Tech Stack:
-<div align="center">
+<div align="center" style="padding: 10px; background-color: rgba(255, 255, 255, 0.85); border-radius: 10px; margin: 10px 0;">
   <p>
     <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" width="80" style="margin: 5px;" />
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="80" style="margin: 5px;" />
@@ -36,18 +35,9 @@
 ---
 
 ### 📊 GitHub Stats:
-<div align="center">
+<div align="center" style="padding: 10px; background-color: rgba(255, 255, 255, 0.85); border-radius: 10px; margin: 10px 0;">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Dante98DZC&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dante98DZC&hide_border=true&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 ---
-
-### 📫 Get in touch:
-<div align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 10px; margin: 10px 0;">
-  - Email: [dante98dzc@gmail.com](mailto:dante98dzc@gmail.com)  
-  - Telegram: [@ragnar_kaiser](https://t.me/ragnar_kaiser)
-</div>
-
----
-
