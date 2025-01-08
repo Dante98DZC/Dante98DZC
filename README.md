@@ -2,7 +2,7 @@
   <img 
     src="https://raw.githubusercontent.com/Dante98DZC/Dante98DZC/main/photo_2021-09-16_19-13-06.jpg" 
     alt="Background Image" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: auto; opacity: 0.15; z-index: -1;" 
+    style="position: relative; float: right; width: 30%; height: auto;" 
   />
   <h1>Hi there 👋</h1>
   
